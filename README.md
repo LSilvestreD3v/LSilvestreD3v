@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LSilvestreD3v
 - 👀 I’m interested in Full Stack
 - 🌱 I’m currently learning Front End
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Front-End, Javascript
 - 📫 How to reach me ( silvestreprog@gmail )
 
 <!---
